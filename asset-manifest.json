@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-autoproverka/static/css/main.073c9b0a.css",
+    "main.js": "/homework-autoproverka/static/js/main.8cb54efe.js",
+    "static/js/787.177e23c2.chunk.js": "/homework-autoproverka/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homework-autoproverka/index.html",
+    "main.073c9b0a.css.map": "/homework-autoproverka/static/css/main.073c9b0a.css.map",
+    "main.8cb54efe.js.map": "/homework-autoproverka/static/js/main.8cb54efe.js.map",
+    "787.177e23c2.chunk.js.map": "/homework-autoproverka/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8cb54efe.js"
+  ]
+}
